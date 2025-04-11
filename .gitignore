@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+/FileMonitor/x64/Release
+/.vs/FileMonitor/CopilotIndices/17.14.260.54502
+/.vs/FileMonitor/FileContentIndex
+/.vs/FileMonitor/v17
+/x64/Release

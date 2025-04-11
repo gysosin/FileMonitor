@@ -1,4 +1,3 @@
-```markdown
 # 📁 FileMonitor - Windows MiniFilter Driver
 
 🛡️ **FileMonitor** is a lightweight kernel-mode MiniFilter driver for Windows that logs file activity like creation, reading, writing, and deletion.
